@@ -1,0 +1,2 @@
+# Common requirements for development and container use
+pip-tools
